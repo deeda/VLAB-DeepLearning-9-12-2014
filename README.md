@@ -15,16 +15,16 @@ Industry giants such as Google, Facebook, and Baidu have acquired most of the do
  
 
 <h3>Panelists</h3>
-Adam Berenzweig, Co-founder and CTO, [Clarifai](http://www.clarifai.com/)
-Naveen Rao, Co-founder and CEO, [Nervana Systems](http://www.nervanasys.com/)
-Elliot Turner, Founder and CEO, [AlchemyAPI](http://www.alchemyapi.com/)
+Adam Berenzweig, Co-founder and CTO, [Clarifai](http://www.clarifai.com/)<br>
+Naveen Rao, Co-founder and CEO, [Nervana Systems](http://www.nervanasys.com/)<br>
+Elliot Turner, Founder and CEO, [AlchemyAPI](http://www.alchemyapi.com/)<br>
 Ilya Sutskever, Research Scientist, [Google Brain](http://en.wikipedia.org/wiki/Google_Brain)
  
 
 <h3>Demo Companies**:</h3>
 [Clarifai](http://www.clarifai.com/) | [SkyMind](http://www.skymind.io/) | [Ersatz Labs](http://www.ersatzlabs.com/) | [AlchemyAPI](http://www.alchemyapi.com/)
 
-** Follow (@VLAB) on Twitter and <h3>Event Hashtag #VLABdl</h3>
+** Follow (@VLAB) on Twitter and <b>Event Hashtag #VLABdl</b>
 
 All errors, omissions, and/or misrepresentations are mine.
  
