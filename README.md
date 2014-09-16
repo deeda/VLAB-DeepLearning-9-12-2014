@@ -26,5 +26,7 @@ Ilya Sutskever, Research Scientist, [Google Brain](http://en.wikipedia.org/wiki/
 
 ** Follow (@VLAB) on Twitter and <b>Event Hashtag #VLABdl</b>
 
+<img src="https://www.vlab.org/wp-content/uploads/2014/08/banner-1.jpg">
+
 All errors, omissions, and/or misrepresentations are mine.
  
