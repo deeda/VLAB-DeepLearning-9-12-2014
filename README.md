@@ -3,6 +3,11 @@ VLAB-DeepLearning-9-12-2014
 
 A panel discussion on the machine learning approach inspired by the human brain
 
+<b>LOCATION:<br></b>
+Stanford Graduate School of Business<br>
+Knight Management Center – Cemex Auditorium<br>
+641 Knight Way, Stanford, CA
+
 ===========================
 
 Deep Learning is taking many industries by storm. Empowered by the latest generation of commodity computing, Deep Learning begins to derive significant value from Big Data. It has already radically improved the computer’s ability to recognize speech and identify objects in images, two fundamental hallmarks of human intelligence.
