@@ -16,14 +16,14 @@ Stever Jurvetson - Intro / moderator
 
 Adam - Clairifai
 
-Can't talk about deep learning without talking about data
-What happened when machine learning hit big data
-	Data from physical world - pics - audio - sensors etc
-	Data humans produce
+Can't talk about deep learning without talking about data. <br>
+What happened when machine learning hit big data.<br>
+* Data from physical world - pics - audio - sensors etc
+* Data humans produce<br>
 Search/sorting/computing statistics etc - used to be about all about data that was typed by humans - data entry 
 starting with computers - everyone was producing data 
-	all this data had to be filtered through the human brain 
-	bridging the gap between recorded physical data to measurements of 	physical data and turn it into symbols and use it to search and sort
+* all this data had to be filtered through the human brain 
+* bridging the gap between recorded physical data to measurements of 	physical data and turn it into symbols and use it to search and sort<br>
 For EX: take an image and provide meaningful contextual tags/info
 	drags pic - shows tags based on the image of trees (pic of trees)
 	VW - auto - vehicle volkswagen mini transportation (pic of VW bug)
