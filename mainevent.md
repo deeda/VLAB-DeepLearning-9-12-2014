@@ -28,26 +28,25 @@ starting with computers - everyone was producing data<br>
 
 For EX: 
 
-* take an image and provide meaningful contextual tags/info<br>
-  drags pic - shows tags based on the image of trees (pic of trees)
-	VW - auto - vehicle volkswagen mini transportation (pic of VW bug)
-	kids - children- clown - circus - carnival (pic of his kid) 
+   take an image and provide meaningful contextual tags/info<br>
+   drags pic - shows tags based on the image of trees (pic of trees
+   VW - auto - vehicle volkswagen mini transportation (pic of VW bug)
+   kids - children- clown - circus - carnival (pic of his kid) 
 
-      Labels 
-         ||||||
+Labels 
+||||||
 Hidden Variables
-         ||||||
-     Features 
+||||||
+Features 
 
 A component needs to be trained to get it to work properly 
 Reward or Penalize weights in algorithm that get something right or wrong
 Geoff Hinton and Yann LeCun - History of neural networks 
 1980s - NN dark ages - getting beaten by other technologies 
 Once GPUs and other algos hit - NN beat everything -- 2009 
-	This allowed to look at more data, bigger models, faster iterations
+   This allowed to look at more data, bigger models, faster iterations
 
-Deep learning error rate 
-2010 - 2014
+<b>Deep learning error rates 2010 - 2014</b>
 
 2010 - 2011 - not much - traditional CV - up 6o 70% error rate
 2012 - Deep learning jump to less than 20% error
