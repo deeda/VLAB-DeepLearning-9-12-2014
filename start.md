@@ -23,18 +23,26 @@ It is different from the early Neural Network research in the 80s. Deep Learning
 Deep Learning provides a methodology to make sense of all the data 
 Internet gives you access to a lot of data, but there needs to be a sensible methodology to organize and create classification algorithms.
 
+SLIDE: (Old School - data sources and prior methodologies)
+
 Internet 
 Metadata: tags, translations
 Mechanical Turk
-	
-Big Data 
-Algorithmic Advances 
-(unlabeled layers)
-Synapse scale 
-Neural Nets 1-10M
-Google Brain 1B
-Adult Brain - 100T
-Infant 1 Quadrillion 
+
+Deep Learning Involves:<br>
+
+Truly Big Data (although deep learning classifiers have been trained with more accuracy using with smaller data sets)<br>
+Algorithmic Advances <br>
+(unlabeled layers) <br>
+Synapse scale to huge numbers - mulitple parralel nodes and concurrent algorithms<br>
+
+Comparison to get an idea:
+
+<b>Neural Nets 1-10M SYNAPSES<br>
+Google Brain 1B SYNAPSES<br>
+Adult Brain - 100T SYNAPSES<br>
+Infant 1 Quadrillion SYNAPSES<br></b>
+
 Number of heartbeats the same across all mammals 
 unlabeled data (just look at info and know its a cat for example)
 unsupervised pre-training -> structure NN (feature detectors) 
