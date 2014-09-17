@@ -37,6 +37,7 @@ Algorithmic Advances <br>
 Synapses scale to huge numbers - mulitple parralel nodes and concurrent algorithms<br>
 
 Comparison to get an idea:<br>
+
 <b>Neural Nets 1-10M SYNAPSES<br>
 Google Brain 1B SYNAPSES<br>
 Adult Brain - 100T SYNAPSES<br>
@@ -51,17 +52,25 @@ How it stacks up:<br>
 Moore's Law has been going on since the dawn of man. It represents <b>humanity's capacity to compute</b><br>
 Intel is not really on Moore's Law curve for last 10 years - for that you have to look to GPUs / NVidia is on Moore's curve<br>
 <br>
+
 Deep Learning will be disrupting many industries:<br>
+
 Robot and AI <br>
 post-CMOS era <br>
 Manufacturing <br>
 Synthetic Bio <br>
 <br>
-Next Big Leap in Computing Hardware:<br>
-Quantum Computing 
-Training deep probabilistic model 
+<b>Next Big Leap in Computing Hardware:<br></b>
 
-iterative algorithms generates amazing things that work or solve complex problems without always understanding why
+* Quantum Computing 
+* Training deep probabilistic model 
 
-Locus of learning shifts from product to process
-Danny Hillis - two quotes - engineering 
+<img src="http://i.imgur.com/E7cTT0I.jpg">
+<br>
+Potential downside: Iterative algorithms generate amazing things that work or solve complex problems without always understanding why<br>
+
+<b>What Deep Learning Represents:<br></b>
+Locus of learning shifts from product to process<br>
+Danny Hillis - “Technology is everything that doesn’t work yet.” "The greatest achievement of human technology is tools that allow us to create more than we understand."<br>
+
+
