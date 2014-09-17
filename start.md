@@ -69,7 +69,7 @@ Synthetic Bio <br>
 
 <img src="http://i.imgur.com/E7cTT0I.jpg">
 <br>
-Potential downside: Iterative algorithms generate amazing things that work or solve complex problems without always understanding why<br>
+Potential downside: Iterative algorithms generate amazing things that work or solve complex problems without always allowing us to understanding why<br>
 
 <b>What Deep Learning Represents:<br></b>
 Locus of learning shifts from product to process<br>
