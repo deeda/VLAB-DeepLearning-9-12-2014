@@ -23,40 +23,41 @@ It is different from the early Neural Network research in the 80s. Deep Learning
 Deep Learning provides a methodology to make sense of all the data 
 Internet gives you access to a lot of data, but there needs to be a sensible methodology to organize and create classification algorithms.
 
-SLIDE: (Old School - data sources and prior methodologies)
+SLIDE: (Old School Way - data sources and prior methodologies)
 
-Internet 
-Metadata: tags, translations
-Mechanical Turk
+Internet<br>
+Metadata: tags, translations<br>
+Mechanical Turk<br>
 
-Deep Learning Involves:<br>
+<b>Deep Learning Involves:<br></b>
 
 Truly Big Data (although deep learning classifiers have been trained with more accuracy using with smaller data sets)<br>
 Algorithmic Advances <br>
 (unlabeled layers) <br>
-Synapse scale to huge numbers - mulitple parralel nodes and concurrent algorithms<br>
+Synapses scale to huge numbers - mulitple parralel nodes and concurrent algorithms<br>
 
-Comparison to get an idea:
-
+Comparison to get an idea:<br>
 <b>Neural Nets 1-10M SYNAPSES<br>
 Google Brain 1B SYNAPSES<br>
 Adult Brain - 100T SYNAPSES<br>
 Infant 1 Quadrillion SYNAPSES<br></b>
 
-Number of heartbeats the same across all mammals 
-unlabeled data (just look at info and know its a cat for example)
-unsupervised pre-training -> structure NN (feature detectors) 
-
-110 years of Moore's Law
-Humanities capacity to compute 
-Intel not on curve for last 10 years - look to GPUs / NVidia 
-
-Disrupting many industries 
-Robot and AI 
-post-CMOS era 
-Manufacturing 
-Synthetic Bio
-
+Number of heartbeats the same across all mammals (Interesting how biology scales)<br>
+Goal of Deep Learning:<br>
+unlabeled data (just look at info and know its a cat for example)<br>
+unsupervised pre-training -> structure NN (feature detectors) <br>
+How it stacks up:<br>
+110 years of Moore's Law (SLIDE)<br>
+Moore's Law has been going on since the dawn of man. It represents <b>humanity's capacity to compute</b><br>
+Intel is not really on Moore's Law curve for last 10 years - for that you have to look to GPUs / NVidia is on Moore's curve<br>
+<br>
+Deep Learning will be disrupting many industries:<br>
+Robot and AI <br>
+post-CMOS era <br>
+Manufacturing <br>
+Synthetic Bio <br>
+<br>
+Next Big Leap in Computing Hardware:<br>
 Quantum Computing 
 Training deep probabilistic model 
 
