@@ -34,7 +34,7 @@ Ilya Sutskever, Research Scientist, [Google Brain](http://en.wikipedia.org/wiki/
 <h3>Outline of Notes</h3>
 * <b>[Pics from the event](../master/pics.md)</b>
 * <b>[Start of the event](../master/start.md)</b>
-* <b>[Main Event](../master/mainevent.md)</b>
+* <b>[Main event](../master/mainevent.md)</b>
 
 <img src="https://www.vlab.org/wp-content/uploads/2014/08/banner-1.jpg">
 
