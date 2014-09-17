@@ -14,7 +14,7 @@ Stever Jurvetson - Intro / moderator
 
 ========
 
-Adam - Clairifai
+<h3>Adam - Clairifai</h3>
 
 Can't talk about deep learning without talking about data. <br>
 What happened when machine learning hit big data.<br>
@@ -48,13 +48,13 @@ Once GPUs and other algos hit - NN beat everything -- 2009
 
 <b>Deep learning error rates 2010 - 2014</b>
 
-2010 - 2011 - not much - traditional CV - up 6o 70% error rate
-2012 - Deep learning jump to less than 20% error
-2013 - 2014 - all about Deep Learning - less than 7% 
+2010 - 2011 - not much - traditional CV - up 6o 70% error rate<br>
+2012 - Deep learning jump to less than 20% error<br>
+2013 - 2014 - all about Deep Learning - less than 7%<br> 
 
-Convolution Neural Network
+<b>Convolution Neural Network</b><br>
 
-Convolution -> Pooling ... Fully Connected... Output Predictions 
+Convolution -> Pooling ... Fully Connected... Output Predictions<br>
 Multiple layers of classification / analysis 
 
 With Neural nets - and research that matt did as a phd - compare it to black box 
