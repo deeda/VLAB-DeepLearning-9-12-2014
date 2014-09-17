@@ -26,8 +26,10 @@ starting with computers - everyone was producing data<br>
 * all this data had to be filtered through the human brain 
 * bridging the gap between recorded physical data to measurements of physical data and turn it into symbols and use it to search and sort<br>
 
-For EX: take an image and provide meaningful contextual tags/info
-	drags pic - shows tags based on the image of trees (pic of trees)
+For EX: 
+
+* take an image and provide meaningful contextual tags/info<br>
+  drags pic - shows tags based on the image of trees (pic of trees)
 	VW - auto - vehicle volkswagen mini transportation (pic of VW bug)
 	kids - children- clown - circus - carnival (pic of his kid) 
 
