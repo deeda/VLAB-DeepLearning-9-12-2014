@@ -13,7 +13,7 @@ Knight Management Center – Cemex Auditorium<br>
 Deep Learning is taking many industries by storm. Empowered by the latest generation of commodity computing, Deep Learning begins to derive significant value from Big Data. It has already radically improved the computer’s ability to recognize speech and identify objects in images, two fundamental hallmarks of human intelligence.
 
 Industry giants such as Google, Facebook, and Baidu have acquired most of the dominant players in this space to improve their product offerings. At the same time, startup entrepreneurs are creating a new paradigm, Intelligence as a Service, by providing APIs that democratize access to Deep Learning algorithms. Join us on September 16, 2014 to learn more about this exciting new technology and be introduced to some of the new application domains, the business models, and the key players in this emerging field. 
- 
+
 
 <h3>Moderator</h3>
 [Steve Jurvetson](http://dfj.com/), Partner, DFJ Ventures
@@ -30,6 +30,10 @@ Ilya Sutskever, Research Scientist, [Google Brain](http://en.wikipedia.org/wiki/
 [Clarifai](http://www.clarifai.com/) | [SkyMind](http://www.skymind.io/) | [Ersatz Labs](http://www.ersatzlabs.com/) | [AlchemyAPI](http://www.alchemyapi.com/)
 
 ** Follow (@VLAB) on Twitter and <b>Event Hashtag #VLABdl</b>
+
+<h3>Outline of Notes</h3>
+* <b>[Pics from the event](../master/pics.md)</b>
+* <b>[Start of the event](../master/start.md)</b>
 
 <img src="https://www.vlab.org/wp-content/uploads/2014/08/banner-1.jpg">
 
