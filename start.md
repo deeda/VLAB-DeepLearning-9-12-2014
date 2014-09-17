@@ -14,6 +14,8 @@ Deep Learning involves iterative algorithms
 
 It is different from the early Neural Network research in the 80s. Deep Learning involves learning using mulitple layers of abstraction and specifically, non-linear transforms.
 
+<img src="http://i.imgur.com/P6rn9le.jpg">
+
 ========================
 
 <h3>What's New in Deep Learning?</h3>
