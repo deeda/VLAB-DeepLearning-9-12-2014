@@ -33,11 +33,11 @@ For EX:
    VW - auto - vehicle volkswagen mini transportation (pic of VW bug)
    kids - children- clown - circus - carnival (pic of his kid) 
 
-Labels 
-||||||
-Hidden Variables
-||||||
-Features 
+Labels <br>
+|||||| <br>
+Hidden Variables <br>
+|||||| <br>
+Features <br>
 
 A component needs to be trained to get it to work properly 
 Reward or Penalize weights in algorithm that get something right or wrong
@@ -69,9 +69,7 @@ What is it for?
 
 Deep learning is forming a bridge between physical and technical world - take pic - buy, find, share, et 
 
-Naveen 
-
-CEO of Nervana Systems 
+<h3>Naveen - CEO of Nervana Systems </h3>
 
 Approaching deep learning from the hardware angle 
 Interesting things going on with computation 
@@ -84,9 +82,7 @@ not only have algos but also have tons of data - now can build hardware for it
 now have use cases for scaling up 
 	what did biology do to solve these processing problems 
 
-Ilya 
-
-Research Scientist - Google Brain
+<h3> Ilya - Research Scientist - Google Brain</h3>
 
 Deep learning is exciting because it actually works 
 anytime you have a lot of input / output examples 
@@ -97,9 +93,7 @@ very simple ideas + very simple algorithms = very complex results
 Big data is very important for all of this    
 See lots of non-linear progress in the future 
 
-Elliot 
-
-Founder CEO - AlchemyAPI
+<h3>Elliot - Founder CEO - AlchemyAPI</h3>
 
 Democratize Deep Learning
 helping corporations solve business problems 
@@ -113,6 +107,7 @@ Think of things as an AI stack
 ----------------------
 
 <h1>Main Q/A</h1>
+
 Steve - wondering in the longer run - does advantage shift to those with access to big data - consolidation vs empowering the small guy
 
 Naveen: selling intelligence / skills - data enables machines to sell skills 
