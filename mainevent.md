@@ -68,8 +68,6 @@ What is it for?
 
 Deep learning is forming a bridge between physical and technical world - take pic - buy, find, share, et 
 
-----------------------
-
 Naveen 
 
 CEO of Nervana Systems 
@@ -111,6 +109,9 @@ Think of things as an AI stack
 	understand images and languages 
 	then what questions you should be thinking about 
 
+----------------------
+
+<h1>Main Q/A</h1>
 Steve - wondering in the longer run - does advantage shift to those with access to big data - consolidation vs empowering the small guy
 
 Naveen: selling intelligence / skills - data enables machines to sell skills 
