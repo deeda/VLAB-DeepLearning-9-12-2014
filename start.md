@@ -44,13 +44,16 @@ Adult Brain - 100T SYNAPSES<br>
 Infant 1 Quadrillion SYNAPSES<br></b>
 
 Number of heartbeats the same across all mammals (Interesting how biology scales)<br>
+
 Goal of Deep Learning:<br>
+
 unlabeled data (just look at info and know its a cat for example)<br>
 unsupervised pre-training -> structure NN (feature detectors) <br>
+
 How it stacks up:<br>
-110 years of Moore's Law (SLIDE)<br>
-Moore's Law has been going on since the dawn of man. It represents <b>humanity's capacity to compute</b><br>
-Intel is not really on Moore's Law curve for last 10 years - for that you have to look to GPUs / NVidia is on Moore's curve<br>
+* 110 years of Moore's Law (SLIDE)<br>
+* Moore's Law has been going on since the dawn of man. It represents <b>humanity's capacity to compute</b><br>
+* Intel is not really on Moore's Law curve for last 10 years - for that you have to look to GPUs / NVidia is on Moore's curve<br>
 <br>
 
 Deep Learning will be disrupting many industries:<br>
